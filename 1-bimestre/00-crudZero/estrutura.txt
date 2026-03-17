@@ -1,0 +1,84 @@
+.
+├── backend
+│   ├── controllers
+│   │   ├── cargoController.js
+│   │   ├── clienteController.js
+│   │   ├── forma_pagamentoController.js
+│   │   ├── funcionarioController.js
+│   │   ├── imageController.js
+│   │   ├── loginController.js
+│   │   ├── menuController.js
+│   │   ├── pagamentoController.js
+│   │   ├── pedidoController.js
+│   │   ├── pedido_has_produtoController.js
+│   │   ├── pessoaController.js
+│   │   └── produtoController.js
+│   ├── database.js
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── routes
+│   │   ├── cargoRoutes.js
+│   │   ├── clienteRoutes.js
+│   │   ├── forma_pagamentoRoutes.js
+│   │   ├── funcionarioRoutes.js
+│   │   ├── imageRoutes.js
+│   │   ├── loginRoutes.js
+│   │   ├── menuRoutes.js
+│   │   ├── pagamentoRoutes.js
+│   │   ├── pedido_has_produtoRoutes.js
+│   │   ├── pedidoRoutes.js
+│   │   ├── pessoaRoutes.js
+│   │   └── produtoRoutes.js
+│   └── server.js
+├── documentacao
+│   ├── 4º bimestre - avaliação - dw1.md
+│   ├── CandyShopDER.png
+│   ├── dumpDBeaver-candyshop-202511180647.sql
+│   ├── estrutura.txt
+│   ├── scriptCandyShop.sql
+│   └── tutorial.md
+├── estrutura.txt
+├── frontend
+│   ├── eslint.config.mjs
+│   ├── next.config.ts
+│   ├── next-env.d.ts
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── postcss.config.mjs
+│   ├── public
+│   │   ├── file.svg
+│   │   ├── globe.svg
+│   │   ├── next.svg
+│   │   ├── vercel.svg
+│   │   └── window.svg
+│   ├── README.md
+│   ├── src
+│   │   └── app
+│   │       ├── cargo
+│   │       │   └── page.tsx
+│   │       ├── globals.css
+│   │       ├── layout.tsx
+│   │       └── page.tsx
+│   └── tsconfig.json
+├── imagens
+│   └── produto
+│       ├── 000.png
+│       ├── 10.png
+│       ├── 11.png
+│       ├── 1.png
+│       ├── 22.png
+│       ├── 2.png
+│       ├── 3.png
+│       ├── 4.png
+│       ├── 50.png
+│       ├── 5.png
+│       ├── 6.png
+│       ├── 7.png
+│       ├── 8.png
+│       └── 9.png
+├── p.sh
+├── push.sh
+├── pushTo.sh
+└── ss
+
+11 directories, 70 files

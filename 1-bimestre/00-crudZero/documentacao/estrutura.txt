@@ -1,0 +1,92 @@
+.
+├── arvore.txt
+├── backend
+│   ├── controllers
+│   │   ├── cargoController.js
+│   │   ├── clienteController.js
+│   │   ├── forma_pagamentoController.js
+│   │   ├── funcionarioController.js
+│   │   ├── loginController.js
+│   │   ├── menuController.js
+│   │   ├── pedidoController.js
+│   │   ├── pedido_has_produtoController.js
+│   │   ├── pessoaController.js
+│   │   └── produtoController.js
+│   ├── database.js
+│   ├── routes
+│   │   ├── avaliadoController.js
+│   │   ├── avaliadorController.js
+│   │   ├── avaliadoRoutes.js
+│   │   ├── avaliadorRoutes.js
+│   │   ├── cargoRoutes.js
+│   │   ├── clienteRoutes.js
+│   │   ├── forma_pagamentoRoutes.js
+│   │   ├── funcionarioRoutes.js
+│   │   ├── loginRoutes.js
+│   │   ├── menuRoutes.js
+│   │   ├── pedido_has_produtoRoutes.js
+│   │   ├── pedidoRoutes.js
+│   │   ├── pessoaRoutes.js
+│   │   ├── produtoRoutes.js
+│   │   ├── professorController.js
+│   │   └── professorRoutes.js
+│   └── server.js
+├── documentacao
+│   ├── 3º bimestre - avaliação - dw1.pdf
+│   ├── CandyShopDER.png
+│   ├── para prompt itens do pedido.jpg
+│   ├── scriptCandyShop.sql
+│   └── tutorial.md
+├── frontend
+│   ├── cargo
+│   │   ├── cargo.css
+│   │   ├── cargo.html
+│   │   └── cargo.js
+│   ├── forma_pagamento
+│   │   ├── forma_pagamento.css
+│   │   ├── forma_pagamento.html
+│   │   └── forma_pagamento.js
+│   ├── login
+│   │   └── login.html
+│   ├── menu.css
+│   ├── menu.html
+│   ├── menu.js
+│   ├── pedido
+│   │   ├── pedido.css
+│   │   ├── pedido.html
+│   │   ├── pedido.js
+│   │   ├── pesquisaDinamicaCliente.js
+│   │   └── pesquisaDinamicaStyle.css
+│   ├── pessoa
+│   │   ├── pessoa.css
+│   │   ├── pessoa.html
+│   │   └── pessoa.js
+│   ├── produto
+│   │   ├── produto.css
+│   │   ├── produto.html
+│   │   └── produto.js
+│   └── testes
+│       ├── dragavel
+│       │   ├── index.html
+│       │   └── style.css
+│       ├── EmOrdem.html
+│       ├── pedidoItens
+│       │   ├── pedido.css
+│       │   ├── pedido.html
+│       │   └── pedido.js
+│       ├── problemaCors.html
+│       ├── rotaMenu.html
+│       ├── testeRotaPessoa.css
+│       ├── testeRotaPessoa.html
+│       ├── verificaCookie.html
+│       └── WireframePedidoItensPedido.html
+├── index.html
+├── package.json
+├── package-lock.json
+├── p.sh
+├── push.sh
+├── pushTo.sh
+├── README.md
+└── ss
+
+15 directories, 75 files

@@ -81,17 +81,25 @@
 
 - Apresentação da disciplina (predominantemente prática)
 
+[os EMPREGOS IMPOSSÍVEIS de serem ROUBADOS por IAs](https://www.youtube.com/watch?v=P8Dv2YS4CQM&t=211s)
+
 ---
 ## 12/03/2026
 [↑ Voltar para o Índice](#índice--checklist)
 
-- Parâmetros dos projetos - definição de equipes
+- Explicação sobre critérios de avaliação em apresentação
+- https://github.com/rjhalmeman/projeto_integrador_2026/blob/main/1-bimestre/Avalia%C3%A7%C3%A3o%20desempenho%20em%20apresenta%C3%A7%C3%A3o%20-%202022.pdf
+- 
 
 ---
 ## 17/03/2026
 [↑ Voltar para o Índice](#índice--checklist)
 
-- Organização - gitprojects
+
+[Empresa FazSite - Problemas processo de desenvolvimento de software.](https://www.youtube.com/watch?v=QPiR8jTMLdI)
+
+- Definição das equipes
+- Foi solicitado que as equipes fizessem wireframes e DER
 
 ---
 ## 24/03/2026
@@ -103,7 +111,7 @@
 ## 26/03/2026
 [↑ Voltar para o Índice](#índice--checklist)
 
-- Recaptulação de conceitos/recursos
+- github projects - Marlon
 
 ---
 ## 31/03/2026

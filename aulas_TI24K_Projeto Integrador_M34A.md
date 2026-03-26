@@ -2,9 +2,9 @@
 
 - [x] [10/03/2026 - Apresentação da disciplina (predominantemente prática)](#10032026)
 - [x] [12/03/2026 - Parâmetros dos projetos - definição de equipes](#12032026)
-- [x] [17/03/2026 - Organização - gitprojects](#17032026)
+- [x] [17/03/2026 - Organização - projetos](#17032026)
 - [x] [24/03/2026 - Estruturação dos trabalhos](#24032026)
-- [ ] [26/03/2026 - Recaptulação de conceitos/recursos](#26032026)
+- [ ] [26/03/2026 - Organização - gitprojects - marlon](#26032026)
 - [ ] [31/03/2026 - Desenvolvimento de projetos](#31032026)
 - [ ] [02/04/2026 - Treinamento em comunicação técnica](#02042026)
 - [ ] [07/04/2026 - Desenvolvimento de projetos](#07042026)
@@ -99,19 +99,22 @@
 [Empresa FazSite - Problemas processo de desenvolvimento de software.](https://www.youtube.com/watch?v=QPiR8jTMLdI)
 
 - Definição das equipes
-- Foi solicitado que as equipes fizessem wireframes e DER
+- Foi solicitado que as equipes fizessem wireframes e DER.
 
 ---
 ## 24/03/2026
 [↑ Voltar para o Índice](#índice--checklist)
 
 - Estruturação dos trabalhos
+- conversas com cada uma das equipes - escopo dos projetos
+- definição dos papeis nas equipes
 
 ---
 ## 26/03/2026
 [↑ Voltar para o Índice](#índice--checklist)
 
 - github projects - Marlon
+- apresentação
 
 ---
 ## 31/03/2026
@@ -124,6 +127,7 @@
 [↑ Voltar para o Índice](#índice--checklist)
 
 - Treinamento em comunicação técnica
+- Apresentação do projeto Caminho Vivo
 
 ---
 ## 07/04/2026

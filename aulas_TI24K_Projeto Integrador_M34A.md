@@ -113,8 +113,7 @@
 ## 26/03/2026
 [↑ Voltar para o Índice](#índice--checklist)
 
-- github projects - Marlon
-- apresentação
+- github projects - Marlon - apresentação
 
 ---
 ## 31/03/2026

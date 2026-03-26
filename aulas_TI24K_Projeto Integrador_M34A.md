@@ -1,9 +1,9 @@
 ## Índice / Checklist
 
-- [ ] [10/03/2026 - Apresentação da disciplina (predominantemente prática)](#10032026)
-- [ ] [12/03/2026 - Parâmetros dos projetos - definição de equipes](#12032026)
-- [ ] [17/03/2026 - Organização - gitprojects](#17032026)
-- [ ] [24/03/2026 - Estruturação dos trabalhos](#24032026)
+- [x] [10/03/2026 - Apresentação da disciplina (predominantemente prática)](#10032026)
+- [x] [12/03/2026 - Parâmetros dos projetos - definição de equipes](#12032026)
+- [x] [17/03/2026 - Organização - gitprojects](#17032026)
+- [x] [24/03/2026 - Estruturação dos trabalhos](#24032026)
 - [ ] [26/03/2026 - Recaptulação de conceitos/recursos](#26032026)
 - [ ] [31/03/2026 - Desenvolvimento de projetos](#31032026)
 - [ ] [02/04/2026 - Treinamento em comunicação técnica](#02042026)

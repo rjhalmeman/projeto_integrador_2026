@@ -124,6 +124,8 @@
 ### Ter um método é importante
 [Faz site - Nível 2](https://youtu.be/PiQh_bzoJoc?si=xAVOt9I2eQtfTe6s)
 
+[Modelo toyota](https://youtu.be/SH8IItbvH_0)
+
 Mesmo que o método seja incompleto, vale a pena.
 
 - Apresentação dos Wireframes para o professor

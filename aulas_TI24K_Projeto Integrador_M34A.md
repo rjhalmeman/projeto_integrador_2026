@@ -142,6 +142,8 @@ Mesmo que o método seja incompleto, vale a pena.
 ## 07/04/2026
 [↑ Voltar para o Índice](#índice--checklist)
 
+[A curiosa linha do tempo da evolução da Inteligência Artificial](https://www.youtube.com/watch?v=SkX6MKU9gAQ)
+
 - Desenvolvimento de projetos
 - Apresentação dos DERs para o professor
 

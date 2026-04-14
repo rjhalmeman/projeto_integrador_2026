@@ -161,15 +161,16 @@ Mesmo que o método seja incompleto, vale a pena.
 
 - Desenvolvimento de projetos
 - Apresentação dos DERs para o professor
--  Maria Eduarda,Mariana, José, Ralielly, Emanuelle, Daniela e Rafaella
+  
+Odonto -  Maria Eduarda,Mariana, José, Ralielly, Emanuelle, Daniela e Rafaella
 
 --- 
 
-Emanuel, ⁠Emilly, ⁠Isabely, ⁠Marjory, ⁠Ryan, ⁠Samara e ⁠Yasmym
+GymManager - Emanuel, ⁠Emilly, ⁠Isabely, ⁠Marjory, ⁠Ryan, ⁠Samara e ⁠Yasmym
 
 --- 
 
- Gabriel, João Vitor, João Pedro, Bruno, Antonio e Erick
+ Sellf - Gabriel, João Vitor, João Pedro, Bruno, Antonio e Erick
 
 ---
 
